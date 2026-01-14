@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Technical Skills
-- **Programming:** C++, pyhton 
+- **Programming:** C++, python 
 - **Core CS:** Data Structures & Algorithms  
 - **Tools:** Git, GitHub  
 - **Other:** Problem Solving, Logical Thinking  
